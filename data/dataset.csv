@@ -1,0 +1,9 @@
+url,label
+http://secure-login.com,0
+https://google.com,0
+http://192.168.1.1/login,1
+http://verify-account.com,1
+https://yahoo.com,0
+http://secure..verify.com,1
+https://github.com,0
+http://123.45.67.89/bank,1
